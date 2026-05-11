@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday!</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="glass-card">
+            <div class="photo-frame">
+                <!-- Replace 'our-photo.jpg' with your actual image file name -->
+                <img src="our-photo.jpg" alt="Us" class="main-photo">
+            </div>
+            <h1>I Love You</h1>
+            <p class="message">Happy Birthday to my favorite person! ❤️</p>
+            <div class="flower-container">
+                <span class="flower">🌸</span>
+                <span class="flower">🌷</span>
+                <span class="flower">🌹</span>
+                <span class="flower">🌻</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
